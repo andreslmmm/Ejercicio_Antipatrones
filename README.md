@@ -1,4 +1,7 @@
 # Análisis de Antipatrones y Refactorización
+Juan Camilo Mosquera Palomino - 20241020120
+
+Andres Felipe Lopez Martinez - 20241020052
 
 ## Antipatrón 1: **Magic Numbers (Números Mágicos)**
 
